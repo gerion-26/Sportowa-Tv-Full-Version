@@ -244,3 +244,6 @@ This repository serves as the official landing page for Sportowa TV. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sportowa TV today!**
+
+---
+**Last updated:** 2026-09-09 19:39:05 UTC
